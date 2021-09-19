@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ASP.Net Core Technologies
+- 🌱 I’m currently learning Teraform and Visual studio template
+- 📫 reach me: gopichandarbe@gmail.com
+
 <!--
 **Gopichandar/Gopichandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
